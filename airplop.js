@@ -5,9 +5,7 @@ var fs 			= require('fs');
 var path 		= require('path');
 var ip 			= require('ip');
 var jade 		= require('jade');
-var defaults 	= require('defaults');
 
-console.log(defaults);
 /****************
 ** INIT EXPRESS.JS
 *****************/

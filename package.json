@@ -1,0 +1,33 @@
+{
+  "name": "airplop",
+  "version": "0.0.1",
+  "description": "Makes a temporary server to transfer files to wireless devices through their browsers.",
+  "main": "airplop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "airplop": "airplop.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "keywords": ["airplop", "transfer", "file"],
+  "author": "zayaank",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.3.0",
+    "ip": "^0.3.0",
+    "jade": "^1.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zayaankhatib/airplop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zayaankhatib/airplop/issues"
+  },
+  "homepage": "https://github.com/zayaankhatib/airplop"
+}

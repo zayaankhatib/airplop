@@ -1,0 +1,15 @@
+
+@media all and (max-width: 480px)  {
+    .half {
+        float: left !important;
+        width: 50% !important;
+    }
+}
+
+div.filename {
+	word-wrap: break-word;
+}
+
+div.row {
+	margin-bottom: 20px;
+}

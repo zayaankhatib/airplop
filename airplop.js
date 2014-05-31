@@ -54,6 +54,8 @@ app.get('/download/:number', function (req, res) {
 			if (err) throw err;
 			console.log("Transfer of'"+path.basename(files[number].filepath)+"' complete.");
 		});
+	} else {
+		res.redirect('/');
 	}
 });
 

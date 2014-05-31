@@ -1,6 +1,6 @@
 {
   "name": "airplop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes a temporary server to transfer files to wireless devices through their browsers.",
   "main": "airplop.js",
   "scripts": {

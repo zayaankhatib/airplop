@@ -1,6 +1,6 @@
 # AirPlop
 
-Node.js command line tool to transfer files from a computer running node.js to any device with a browser on your local network.
+A play off of Apple's AirDrop, AirPlop is a Node.js command line tool to transfer files from a computer running node.js to any device with a browser on your local network.
 Great for getting files from a computer to a tablet or phone without the need to put it in the cloud first.
 
 ## Installation
